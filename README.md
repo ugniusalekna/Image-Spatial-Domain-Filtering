@@ -1,4 +1,4 @@
-# DIP_Compulsory_Assignment_1
+# Image Processing Tasks in the Spatial Domain
 The first compulsory assignment for the course Digital Image Processing
 
 This repository contains the Compulsory Assignment 1, a practical project summarizing the first five weeks of a DIP course.
